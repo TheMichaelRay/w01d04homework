@@ -37,5 +37,4 @@ var playerScores = {
 for (key in playerScores) {
   scoreList.innerHTML += '<li class="names">' + key + '</li>';
   scoreNumberList.innerHTML += '<li class="scores">' + playerScores[key] + '</li>';
-
 }

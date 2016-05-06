@@ -1,0 +1,13 @@
+body {
+  display: inline-block;
+}
+#highscores, #scoreNumbers {
+  float: left;
+  border: 4px solid black;
+  padding: 0px;
+}
+li {
+  border: 2px solid grey;
+  list-style-type: none;
+  padding: 20px 5px;
+}
